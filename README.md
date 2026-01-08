@@ -20,17 +20,17 @@ As a passionate software developer and problem-solver, I love creating innovativ
 
 Here are some of my projects that showcase my diverse interests and technical abilities:
 
+* **[Obsidian-Note-Mover-Shortcut](https://github.com/bueckerlars/obsidian-note-mover-shortcut)**
+
+    A productivity tool that streamlines note organization in Obsidian with customizable folder structures.
+    > *Key Features:* Workflow automation, keyboard shortcuts, and seamless integration with Obsidian
+
 * **[AgriNode](https://github.com/bueckerlars/AgriNode)**
 
     An open-source, cost-effective plant monitoring system using a WEMOS D1 Mini. Perfect for hobby gardeners and smart home enthusiasts.
     > *Key Features:* IoT integration, hardware programming, embedded systems, and real-time data monitoring
 
-* **[AI-Audio-Transcriber](https://github.com/bueckerlars/ai-audio-transcriber)**
+* **[Futro S740 Kubernetes Cluster](https://github.com/bueckerlars/futro-S740-cluster)**
 
-    A modern web application that leverages AI for accurate audio transcription and speech recognition.
-    > *Key Features:* AI/ML integration, audio processing, responsive web design, and user-friendly interface
-
-* **[Obsidian-Note-Mover-Shortcut](https://github.com/bueckerlars/obsidian-note-mover-shortcut)**
-
-    A productivity tool that streamlines note organization in Obsidian with customizable folder structures.
-    > *Key Features:* Workflow automation, keyboard shortcuts, and seamless integration with Obsidian
+    An Infrastructure-as-Code template for a homelab cluster using OpenTofu.
+  > *Key Features* K3S, Kairos, Kubernetes, Clustering, Infrastructure-as-Code
